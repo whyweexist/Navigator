@@ -41,10 +41,10 @@ export default function Login({ providers }: Props) {
   return (
     <>
       <Head>
-        <title>Login - FundsNav</title>
+        <title>Login - Prahaar</title>
         <meta
           name="description"
-          content="FundsNav is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
+          content="Prahaar is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
         />
         <meta
           name="keywords"
@@ -57,7 +57,7 @@ export default function Login({ providers }: Props) {
       <div className="hero min-h-[80vh]">
         <div className="hero-content flex-col lg:flex-row justify-evenly gap-10 lg:gap-40 w-full">
           <figure className="mx-auto max-w-fit background-glow-primary">
-            <Image src={"/logo.webp"} alt="FundsNav Logo" width={400} height={400} quality={50} priority={true} />
+            <Image src={"/logo.webp"} alt="Prahaar Logo" width={400} height={400} quality={50} priority={true} />
             <h1 className="text-7xl text-primary font-bold text-center mt-6">FundsNav</h1>
           </figure>
 
