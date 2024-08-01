@@ -9,7 +9,7 @@ export default function About() {
         <title>About - FundsNav</title>
         <meta
           name="description"
-          content="FundsNav is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
+          content="Prahaar is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
         />
         <meta
           name="keywords"
@@ -28,12 +28,12 @@ export default function About() {
 
             <p className="py-6">
               <Link
-                href="https://www.linkedin.com/in/abdullah-jaswal/"
+                href="https://www.github.com/whyweexist/"
                 className="text-2xl text-sky-400"
                 target="_blank"
               >
                 <span className="flex flex-row items-center">
-                  <FaLinkedin className="w-10 h-10 mr-2" /> Abdullah Abid Jaswal
+                  
                 </span>
               </Link>
             </p>
