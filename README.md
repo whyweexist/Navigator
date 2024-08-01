@@ -18,6 +18,6 @@ Frontend: Next.js (React.js, Tailwind CSS)
 <br/>
 DB: PostgreSQL
 
-With daily updates of funds data through python scripts written on AWS Lambda (scraps and inserts into db from https://www.mufap.com.pk/) and cached on a low latency Redis instance.
+With daily updates of funds data through python scripts written on AWS Lambda (scraps and inserts into db and cached on a low latency Redis instance.
 
 ##### Deployed on AWS ECS (Elastic Container Service) using AWS Copilot (https://aws.github.io/copilot-cli/)
