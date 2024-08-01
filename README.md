@@ -1,10 +1,6 @@
-# FundsNav
+# Pravaah
 
-<!-- add image -->
-
-![Home- FundsNav](./support/home-dark.png)
-
-FundsNav (https://fundsnav.abdullahjaswal.com) - High Performance Mutual Funds Analysis Platform with over 200+ listed funds of all the asset management companies present in Pakistan.
+Navigator- High Performance Mutual Funds Analysis Platform with over 200+ listed funds of all the asset management companies present in Pakistan.
 
 Provides a detailed analysis of funds with the following features:
 
@@ -12,9 +8,7 @@ Provides a detailed analysis of funds with the following features:
 - Fund Comparison
 - Fund Ranking
 
-![login - FundsNav](./support/login-dark.png)
-![Dashboard - FundsNav](./support/dashboard-dark.png)
-![Fund - FundsNav](./support/fund-dark.png)
+
 
 ### Full Stack application made using:
 
