@@ -1,0 +1,24 @@
+# Use the official Node.js image as a base image
+FROM node:18-buster-slim
+
+ENV NEXT_TELEMETRY_DISABLED 1
+
+WORKDIR /frontend
+
+COPY package.json package-lock.json ./
+
+RUN apt-get update \
+    && apt-get install -y build-essential ca-certificates --no-install-recommends \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN npm install --loglevel verbose
+
+COPY . .
+
+RUN npm run build
+
+RUN chmod +x /frontend/entrypoint.prod.sh
+
+EXPOSE 3000
+
+ENTRYPOINT ["/frontend/entrypoint.prod.sh"]
