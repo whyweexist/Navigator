@@ -36,7 +36,7 @@ export default function Hero(props: Props) {
           </span>
 
           <h3 className="text-base sm:text-lg md:text-xl text-center lg:text-start">
-            Peek into <span className="text-gradient-primary font-bold">Pakistan&apos;s</span> mutual fund scene without
+            Peek into <span className="text-gradient-primary font-bold">&apos;s</span> mutual fund scene without
             the jargon.
           </h3>
 
