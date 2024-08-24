@@ -75,10 +75,10 @@ export default function FundDetail(props: Props) {
   return (
     <>
       <Head>
-        <title>{props?.fund?.name} - FundsNav</title>
+        <title>{props?.fund?.name} - Navigator</title>
         <meta
           name="description"
-          content="FundsNav is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
+          content="Navigator is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
         />
         <meta
           name="keywords"
