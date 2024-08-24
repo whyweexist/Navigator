@@ -14,10 +14,10 @@ export default function Home(props: Props) {
   return (
     <>
       <Head>
-        <title>Home - FundsNav</title>
+        <title>Home - Navigator</title>
         <meta
           name="description"
-          content="FundsNav is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
+          content="Navigator is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
         />
         <meta
           name="keywords"
