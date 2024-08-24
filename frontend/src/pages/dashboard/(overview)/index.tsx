@@ -25,7 +25,7 @@ export default function Overview() {
     <>
       <DashboardHeader
         title="Overview"
-        subtitle="Overview of Pakistan's Mutual Funds Industry"
+        subtitle="Overview of  Mutual Funds Industry"
         showBreadcrumbs={true}
         showLinks={false}
       />
