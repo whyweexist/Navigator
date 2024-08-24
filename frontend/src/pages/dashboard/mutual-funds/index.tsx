@@ -96,7 +96,7 @@ export default function FundLookup(props: Props) {
         <title>Mutual Funds - FundsNav</title>
         <meta
           name="description"
-          content="FundsNav is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
+          content="Navigator is a platform that helps you track your mutual fund investments and provides you with insights to help you make better investment decisions."
         />
         <meta
           name="keywords"
@@ -108,7 +108,7 @@ export default function FundLookup(props: Props) {
 
       <DashboardHeader
         title="Mutual Funds"
-        subtitle="View mutual funds of Pakistan and analyse their performance."
+        subtitle="View mutual funds and analyse their performance."
         showBreadcrumbs={true}
         showLinks={false}
       />
