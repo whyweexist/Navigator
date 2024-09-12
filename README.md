@@ -1,6 +1,6 @@
 # Pravaah
 
-Navigator- High Performance Mutual Funds Analysis Platform with over 200+ listed funds of all the asset management companies present in Pakistan.
+Navigator- High Performance Mutual Funds Analysis Platform with over 200+ listed funds of all the asset management companies present.
 
 Provides a detailed analysis of funds with the following features:
 
